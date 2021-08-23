@@ -1,0 +1,16 @@
+digraph graphname
+{
+a [label="Tem pelagem?"];
+b [label="Ronrona?"];
+c [label="gato"];
+d [label="E bipede?"];
+e [label="cao"];
+f [label="homem"];
+g [label="porco"];
+a -> b [label="sim"];
+b -> c [label="sim"];
+a -> d [label="nao"];
+d -> f [label="sim"];
+b -> e [label="nao"];
+d -> g [label="nao"];
+}

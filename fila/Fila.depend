@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\rosem\onedrive\햞ea de trabalho\estrutura\fila\main.cpp
+	<iostream>
+
+1559225605 source:c:\users\rosem\onedrive\햞ea de trabalho\estrutura\fila\src\fila.cpp
+	"Fila.h"
+
+1559223110 c:\users\rosem\onedrive\햞ea de trabalho\estrutura\fila\include\fila.h
+	<iostream>
+	"No.h"
+
+1559222867 c:\users\rosem\onedrive\햞ea de trabalho\estrutura\fila\include\no.h
+	<iostream>
+
+1559225744 source:c:\users\rosem\onedrive\햞ea de trabalho\estrutura\fila\src\no.cpp
+	"No.h"
+
